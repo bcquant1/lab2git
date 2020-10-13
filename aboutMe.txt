@@ -1,2 +1,7 @@
 Hi my name is Brandon Qunt. I am a senior computer engineer at Santa Clara University. My hobbies include playing video games and playing basketball.
 
+The courses I am taking this quarter are:
+COEN 174
+COEN 194
+COEN 313
+POLI 2
